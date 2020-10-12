@@ -25,6 +25,7 @@ body, input, button, textarea{
 
 #container{
 	margin: auto;	
+	width: 90%;
 }
 
 .location,
