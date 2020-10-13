@@ -38,6 +38,7 @@ a.create-orphanage {
 	position: absolute;
 	right: 4rem;
 	bottom: 4rem;
+	z-index: 10;
 	width: 6.4rem;
 	height: 6.4rem;
 	background: #15C3D6;
@@ -89,4 +90,5 @@ a.create-orphanage:hover {
 
 .leaflet-container {
 	font: 700 2.0rem/1 'Nunito', sans-serif;
+	z-index: 5;
 }
