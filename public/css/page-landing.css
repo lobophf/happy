@@ -26,6 +26,7 @@ h1,
 
 main h1 {
 	animation-delay: 150ms;
+	font-size: clamp(4rem, 8vw, 8.4rem);
 }
 
 .visit p {
@@ -69,8 +70,9 @@ main h1 {
 	}
 
 	main h1 {
-		font-size: clamp(4rem, 8vw, 8.4rem);
 		font-weight: bold;
+		line-height: 0.80;
+		margin: clamp(5%, 6vh, 8%) 0 4rem;
 		width: min(300px, 80%);
 	}
 }
