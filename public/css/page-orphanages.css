@@ -28,3 +28,15 @@ aside p {
 aside footer p{
 	margin-top: 0.8rem;
 }
+
+a.create-orphanage {
+	position: absolute;
+	width: 6.4rem;
+	height: 6.4rem;
+	background: #14C3D6;
+	border: 0;
+	border-radius: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
