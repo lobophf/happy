@@ -78,10 +78,20 @@ main h1 {
 		width: min(300px, 80%);
 		font-size: 7.0rem;
 	}
+	
+	.visit {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
 
 	.visit p {
 		font-size: 2.4rem;
 		line-height: 1.5;
 		width: clamp(20rem, 20vw, 30rem)
+	}
+
+	.visit a {
+		margin: initial;
 	}
 }
