@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">	
 		<meta name="viewport" content="width=device-width, 
 		initial-scale=1.0">
-		<title>Lar das Meninas | Happy</title>
+		<title>Adicionar um Ofanato | Happy</title>
 
 		 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
    			integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -17,11 +17,12 @@
 		<link rel="stylesheet" href="./public/css/main.css">
 		<link rel="stylesheet" href="./public/css/animations.css">
 		<link rel="stylesheet" href="./public/css/page-create-orphanage.css">
+		<link rel="stylesheet" href="./public/css/map.css">
 		<link rel="stylesheet" href="./public/css/sidebar.css">
 		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 	</head>
 	<body>
-		<div id="create-orphanage">
+		<div id="page-create-orphanage">
 			<aside class="animate-right sidebar">
 				<img src="./public/images/map-marker.svg" alt="Happy">
 				<footer>
@@ -31,6 +32,27 @@
 				</footer>
 			</aside>
 			<main class="animate-appear with-sidebar">
+				<form action="">
+					<fieldset>
+						<legend>Dados</legend>
+						
+						<div class="map-container">
+						<div id="mapid"></div>
+							<footer>
+								<a href="#" id="select-point">
+									Clique no mapa para adicionar a localização
+								</a>
+							</footer>
+						</div>
+						<div class="input-block">
+							<label for="name">Nome</label>
+							<input id="name" name="name">
+						</div>
+					</fieldset>
+					<fieldset>
+						<legend>Visitação</legend>
+					</fieldset>
+				</form>
 			</main>
 		</div>
 		<script src="./public/scripts/page-create-orphanage.js"></script>
