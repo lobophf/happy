@@ -7,6 +7,19 @@ main {
 	flex: 1;
 }
 
+.map-container {
+	margin-top: -60px
+}
+
+.map-container .leaflet-container {
+	border-radius: 20px 20px 0 0;
+}
+
+.map-container footer {
+	background: #F5F8FA;
+	border-radius: 0 0 20px 20px;
+}
+
 form {
 	width: 70rem;
 	margin: 6.4rem auto;
@@ -32,6 +45,9 @@ fieldset legend {
 	color: #5C8599;
 	font-weight: 700;
 	border-bottom: 1px solid #D3E2E5;
-	margin-bottom: 4rem;
-	padding-bottom: 2.4rem;
 }
+
+.input-block + .input-block {
+	margin-top: 2.4rem;
+}
+
