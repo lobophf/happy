@@ -1,4 +1,4 @@
-module.exports [ 
+module.exports = [ 
 {
 	id: 1,
 	lat: "-27.222633",
