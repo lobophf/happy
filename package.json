@@ -22,6 +22,7 @@
   "homepage": "https://github.com/lobophf/happy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.1.1"
+    "hbs": "^4.1.1",
+    "sqlite-async": "^1.1.0"
   }
 }
