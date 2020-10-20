@@ -4,8 +4,8 @@ const saveOrphanage = require('./saveOrphanage');
 Database.then(async db => {
 	await saveOrphanage(db, {
 		lat: "-27.222633",
-		lng: "-49.6455874",
-		name: "Lar das meninas",
+		lng: "-49.6555874",
+		name: "Lar dos Meninos",
 		about: "Presta assistência a crianças de 06 a 15 anos que se encontrem em situação de risco e/ou vulnerabilidade social.",
 		whatsapp: "31 9999 9999",
 		images: [
@@ -18,9 +18,8 @@ Database.then(async db => {
 		].toString(),
 		instructions: "Venha se sentir a vontade e traga muito amor e atenção para dar.",
 		opening_hours: "Horário de visita das 6h as 18h",
-		open_on_weekends: "1"
+		open_on_weekends: "0"
 		}
 	);
 		const orphanage = await db.all('SELECT * FROM orphanages WHERE id = "1"');
-	console.log(orphanage);
 })
