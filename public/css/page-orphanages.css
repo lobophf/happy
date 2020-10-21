@@ -15,7 +15,7 @@ aside {
 
 aside h2 {
 	margin-top: 2.4rem;
-	font: 800 clamp(2rem, 5vw, 3.6)/1.1 'Nunito', sans-serif;
+	font: 800 clamp(2rem, 5vw, 3.6rem)/1.1 'Nunito', sans-serif;
 }
 
 aside p {
@@ -23,7 +23,7 @@ aside p {
 	font: 400 1.6rem/1.5 'Nunito', sans-serif;
 }
 
-aside footer p{
+aside footer p {
 	margin-top: 0.8rem;
 }
 
@@ -55,7 +55,7 @@ a.create-orphanage:hover {
 
 .leaflet-popup-content-wrapper {
 	background: rgba(255, 255, 255, 0.8);
-	border-radius: 20px;	
+	border-radius: 20px;
 }
 
 .leaflet-popup-content {
@@ -66,7 +66,7 @@ a.create-orphanage:hover {
 	justify-content: space-between;
 }
 
-.leaflet-popup-content a{
+.leaflet-popup-content a {
 	width: 4rem;
 	height: 4rem;
 	background: #15C3D6;
@@ -79,7 +79,7 @@ a.create-orphanage:hover {
 }
 
 
-.leaflet-popup-content a:hover{
+.leaflet-popup-content a:hover {
 	background: #17D6EB;
 }
 
