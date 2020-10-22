@@ -15,7 +15,21 @@ Would you like to donate money and supplies to orphanages but you can't? Maybe y
 - [Express](https://expressjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-## License
-Aimt is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
+## Installation:
+To create a server on your machine and use this application. First, download and extract the zipped files, or even better, clone this repository.
+```sh
+$ git clone git@github.com:lobophf/happy.git
+```
+This application requires [Nodejs](https://nodejs.org/en/) and the npm that comes with it. If you don't have it, you can get it by following [this](https://nodejs.org/en/download/) page. Everything should work fine for version v12.19.0. Also, this project contains the [package.json](./package.jason) file that shows all the dependencies used in this project. So, to install the npm modules, jump to the root folder, and run the following command on the terminal.
+```sh
+$ cd happy 
+$ npm i
+```
+If all goes well, several files will appear, and the server will be ready to start. To do this, run the following command:
+```sh
+$ node src/server.js
+```
+## License:
+This application is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
 
 
