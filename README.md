@@ -20,7 +20,7 @@ To create a server on your machine and use this application. First, download and
 ```sh
 $ git clone git@github.com:lobophf/happy.git
 ```
-This application requires [Nodejs](https://nodejs.org/en/) and the npm that comes with it. If you don't have it, you can get it by following [this](https://nodejs.org/en/download/) page. Everything should work fine for version v12.19.0. Also, this project contains the [package.json](./package.jason) file that shows all the dependencies used in this project. So, to install the npm modules, jump to the root folder, and run the following command on the terminal.
+This application requires [Nodejs](https://nodejs.org/en/) and the npm that comes with it. If you don't have it, you can get it by following [this](https://nodejs.org/en/download/) page. Everything should work fine for version v12.19.0. Also, this project contains the [package.json](./package.json) file that shows all the dependencies used in this project. So, to install the npm modules, jump to the root folder, and run the following command on the terminal.
 ```sh
 $ cd happy 
 $ npm i
