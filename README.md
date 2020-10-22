@@ -25,7 +25,7 @@ This application requires [Nodejs](https://nodejs.org/en/) and the [npm](https:/
 $ cd happy 
 $ npm i
 ```
-If all goes well, several files will appear, and the server will be ready to start. To do this, run the following command:
+If everything goes well, several files will appear, and the server will be ready to start. To do this, run the following command:
 ```sh
 $ node src/server.js
 ```
