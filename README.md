@@ -14,3 +14,8 @@ Would you like to donate money and supplies to orphanages but you can't? Maybe y
 - [Handlebars](https://handlebarsjs.com/)
 - [Express](https://expressjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
+
+## License
+Aimt is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
+
+
