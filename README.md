@@ -16,7 +16,7 @@ Would you like to donate money and supplies to orphanages but you can't? Maybe y
 - [SQLite](https://www.sqlite.org/index.html)
 
 ## Installation:
-To create a server on your machine and use this application. First, download and extract the zipped files, or even better, clone this repository.
+To create a server on your machine and use this application. First, [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github) this repository.
 ```sh
 $ git clone git@github.com:lobophf/happy.git
 ```
