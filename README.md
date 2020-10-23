@@ -20,13 +20,17 @@
 Would you like to donate money and supplies to orphanages but you can't? Maybe you can touch hearts by spreading kindness and given care. In that spirit, between October 12th and 16th, [@Rocketseat](https://github.com/Rocketseat) held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, while visitors access it to schedule visits.
 
 ## :rocket: Technologies:
-- [JavaScript](https://www.javascript.com/)
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- [Node.js](https://nodejs.org/en/)
-- [Handlebars](https://handlebarsjs.com/)
-- [Express](https://expressjs.com/)
-- [SQLite](https://www.sqlite.org/index.html)
+<p align="center">
+    <a href="https://html.com/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" height="90px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.javascript.com/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg" height="95px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/css3.svg" height="100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nodejs.org/en/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="90px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.sqlite.org/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" height="85px"></a>
+    <br><br>
+    <a href="https://expressjs.com/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://leafletjs.com/"><img alt ="logo" src="https://leafletjs.com/docs/images/logo.png" height="55px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://handlebarsjs.com/"><img alt ="logo" src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" height="35px"></a>
+</P>
 
 ## :hammer_and_wrench: Installation:
 To create a server on your machine and use this application. First, [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github) this repository.
