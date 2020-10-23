@@ -4,7 +4,7 @@
 </p>
 
 ## :question: About:
-Would you like to donate money and supplies to orphanages but you can't? Maybe you can touch hearts by spreading kindness and given care. In that spirit, between October 12th and 16th, *[@Rocketseat](https://github.com/Rocketseat)* held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, while visitors access it to schedule visits.
+Would you like to donate money and supplies to orphanages but you can't? Maybe you can touch hearts by spreading kindness and given care. In that spirit, between October 12th and 16th, [@Rocketseat](https://github.com/Rocketseat) held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, while visitors access it to schedule visits.
 
 ## :rocket: Technologies:
 - [JavaScript](https://www.javascript.com/)
