@@ -9,7 +9,7 @@ not rules. So, use your best judgment, and feel free to propose changes, includi
 
 [How Can I Contribute?](#how-can-i-contribute)
 * [Reporting Bugs](#reporting-bugs)
-* [Developing Aimt](#developing-aimt)
+* [Developing happy](#developing-happy)
 
 [Styleguides](#styleguides)
 * [Git Commit Messages](#git-commit-messages)
@@ -24,7 +24,7 @@ If you run into an error or bug with the project:
 * Include reproduction steps that someone else can follow to recreate the bug or error on their own.
 * Provide details like operating system and compiler versions.
 
-### Developing Aimt
+### Developing happy
 Well, this application was developed only for training in a Bootcamp. So I have no plans to add new features and would 
 like to keep it untouched. But you can fork it and make improvements by yourself.
 
