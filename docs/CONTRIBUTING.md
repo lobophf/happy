@@ -26,8 +26,8 @@ If you run into an error or bug with the project:
 
 ### Developing happy
 Well, this application was developed only for training in a Bootcamp. So I have no plans to add new features and would 
-like to keep it untouched. But you can fork it and make improvements by yourself. However, if you want to contribute by 
-fixing bugs or types mistakes, create a side branch and open a pull request.
+like to keep it untouched, and you can fork it and make improvements by yourself. However, if you want to contribute by 
+fixing bugs or types mistakes, just fork this repository, create a side branch and open a pull request.
 
 ## Styleguides
 ### Git Commit Messages
