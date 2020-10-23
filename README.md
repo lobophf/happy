@@ -3,10 +3,10 @@
     <img alt="Happy App into notebook" src="https://dl.dropboxusercontent.com/s/idtcu2tsmomx10o/happy-notebook.jpg?dl=0" height="380px" />
 </p>
 
-## About:
+## :question: About:
 Would you like to donate money and supplies to orphanages but you can't? Maybe you can touch hearts by spreading kindness and given care. In that spirit, between October 12th and 16th, **[@Rocketseat](https://github.com/Rocketseat)** held a Bootcamp, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, while visitors access it to schedule visits.
 
-## Technologies:
+## :rocket: Technologies:
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -15,7 +15,7 @@ Would you like to donate money and supplies to orphanages but you can't? Maybe y
 - [Express](https://expressjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-## Installation:
+## :hammer_and_wrench: Installation:
 To create a server on your machine and use this application. First, [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github) this repository.
 ```sh
 $ git clone git@github.com:lobophf/happy.git
@@ -31,11 +31,11 @@ $ node src/server.js
 ```
 Now open your browser and access the route `https://localhost:5500/`.
 
-## Contributing:
+## :star: Contributing:
 
 I'm so glad when I see improvements done by other peoples. Feel free to contribute by opening pull requests for fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuffs in [Contributing](./docs/CONTRIBUTING.md) guide.
 
-## License:
+## :balance_scale: License:
 This application is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
 
 
