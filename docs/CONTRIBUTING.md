@@ -15,7 +15,7 @@ not rules. So, use your best judgment, and feel free to propose changes, includi
 * [Git Commit Messages](#git-commit-messages)
 
 ## What should I know before I get started?
-Happy is an application that connects people to orphanages and so to make children's day happier.
+Happy is an application that connects people to orphanages to make children's day happier.
 
 ## How Can I Contribute?
 ### Reporting bugs
