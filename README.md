@@ -44,7 +44,7 @@ $ npm i
 ```
 If everything goes well, several files will appear, and the server will be ready to start. Therefore, run the following command:
 ```sh
-$ node src/server.js
+$ npm start
 ```
 Now open your browser and access the route `https://localhost:5500/`.
 
