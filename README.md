@@ -9,6 +9,13 @@
     <a href="#balance_scale-license">License</a>
 </p>
 
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobophf/happy">	
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobophf/happy">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+<p>
+
+
 ## :question: About:
 Would you like to donate money and supplies to orphanages but you can't? Maybe you can touch hearts by spreading kindness and given care. In that spirit, between October 12th and 16th, [@Rocketseat](https://github.com/Rocketseat) held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, while visitors access it to schedule visits.
 
