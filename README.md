@@ -31,6 +31,10 @@ $ node src/server.js
 ```
 Now open your browser and access the route `https://localhost:5500/`.
 
+## Contributing
+
+I'm so glad when I see improvements done by other peoples. Feel free to contribute by opening pull requests for fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuffs in [Contributing](./docs/CONTRIBUTING.md) guide.
+
 ## License:
 This application is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
 
