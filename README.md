@@ -46,7 +46,7 @@ If everything goes well, several files will appear, and the server will be ready
 ```sh
 $ npm start
 ```
-Now open your browser and access the route `https://localhost:5500/`.
+Now open your browser and access the route `https://localhost:3000/`.
 
 ## :star: Contributing:
 
