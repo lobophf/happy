@@ -37,12 +37,12 @@ To create a server on your machine and use this application. First, [clone](http
 ```sh
 $ git clone git@github.com:lobophf/happy.git
 ```
-This application requires [Node.js](https://nodejs.org/en/) and the [npm](https://www.npmjs.com/) that comes with it. If you don't have it, you can get it by following [this](https://nodejs.org/en/download/) page. Everything should work fine for Node.js v12.19.0. Also, this project contains the [package.json](./package.json) file that holds all the dependencies used in this project. So, to install the npm modules, jump into the root folder, and install the dependencies like this:
+This application requires [Node.js](https://nodejs.org/en/) and the [npm](https://www.npmjs.com/) that comes with it. If you don't have it, you can get it by following [this](https://nodejs.org/en/download/) page. Everything should work fine for Node.js v12.19.0. Also, this project contains the [package.json](./package.json) file that holds all the dependencies used in this project. To install the npm modules, jump into the root folder, and install the dependencies like this:
 ```sh
 $ cd happy 
 $ npm i
 ```
-If everything goes well, several files will appear, and the server will be ready to start. Therefore, run the following command:
+If everything goes well, several files will appear, and the server will be ready to start. So, run the following command:
 ```sh
 $ npm start
 ```
@@ -50,7 +50,7 @@ Now open your browser and access the route `https://localhost:3000/`.
 
 ## :star: Contributing:
 
-I'm so glad when I see improvements done by other peoples. Feel free to contribute by opening pull requests for fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuffs in [Contributing](./docs/CONTRIBUTING.md) guide.
+I'm so glad when I see improvements done by other people. Feel free to contribute by opening pull requests for fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuff in [Contributing](./docs/CONTRIBUTING.md) guide.
 
 ## :balance_scale: License:
 This application is a MIT licensed, as found in the [LICENSE](https://github.com/lobophf/happy/blob/master/LICENSE) file.
