@@ -35,7 +35,7 @@ To write commits messages, it would be nice if you used the template available i
 ```
 $ git config --local commit.template docs/.git-commit-template.txt
 ```
-So, when you create a commit, don't use the "-m" or "--message" option. Just type the command below and wait for your editor to open. The template file contains other instructions. When you finished, save and close the file.
+So, when you create a commit, don't use the `-m` or `--message` option. Just type the command below and wait for your editor to open. The template file contains other instructions. When you finished, save and close the file.
 ```
 $ git commit
 ```
