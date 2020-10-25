@@ -15,4 +15,7 @@ server
 	.get('/create-orphanage', pages.createOrphanage)
 	.post('/save-orphanage', pages.saveOrphanage)
 
-server.listen(5500)
+const port = process.env.PORT || 3000;
+server.listen(port, () => {
+	console.log(`Starting server at ${port}`);
+});
