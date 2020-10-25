@@ -15,18 +15,18 @@ not rules. So, use your best judgment, and feel free to propose changes, includi
 * [Git Commit Messages](#git-commit-messages)
 
 ## What should I know before I get started?
-Happy is an application that connects people to orphanages to make children's day happier.
+Happy is an application that connects people to orphanages to make the day of children happier.
 
 ## How Can I Contribute?
 ### Reporting bugs
 If you run into an error or bug with the project:
 * Open an issue at https://github.com/lobophf/happy/issues
 * Include reproduction steps that someone else can follow to recreate the bug or error on their own.
-* Provide details like operating system and compiler versions.
+* Provide details like operating system.
 
 ### Developing happy
 Well, this application was developed only for training in a Bootcamp. So I have no plans to add new features and would 
-like to keep it untouched. However, if you want to contribute by fixing bugs or types mistakes, just fork this repository,
+like to keep it untouched. However, if you want to contribute by fixing bugs or grammar mistakes, just fork this repository,
 create a side branch and open a pull request.
 
 ## Styleguides
