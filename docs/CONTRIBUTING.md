@@ -22,7 +22,7 @@ Happy is an application that connects people to orphanages to make the day of ch
 If you run into an error or bug with the project:
 * Open an issue at https://github.com/lobophf/happy/issues
 * Include reproduction steps that someone else can follow to recreate the bug or error on their own.
-* Provide details like operating system.
+* Provide details like the operating system, and web browser used.
 
 ### Developing happy
 Well, this application was developed only for training in a Bootcamp. So I have no plans to add new features and would 
