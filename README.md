@@ -15,9 +15,14 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
-
 ## :question: About:
-Would you like to donate money and supplies to orphanages but you can't? Maybe you can help in another way, touching hearts as well as see smiling faces. In that spirit, between October 12th and 16th, [@Rocketseat](https://github.com/Rocketseat) held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, and visitors access it to schedule visits.
+Would you like to donate money and supplies to orphanages but you can't? Maybe you can help in another way, touching hearts as well as see smiling faces. In that spirit, between October 12th and 16th, [@Rocketseat](https://github.com/Rocketseat) held a [next level week](https://nextlevelweek.com/) event, in which [@MaykBrito](https://github.com/maykbrito/) taught us how to create a **happy** app to bring volunteers closer to orphanages. It's simple: The orphanage registers its data on the platform, and visitors access it to schedule visits. You can try this app by clicking on the purple button below.
+
+<p align="center" 
+    <a href="https://mynlwhappy.herokuapp.com/">
+        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" height="45px">
+    </a>
+</p>
 
 ## :rocket: Technologies:
 <p align="center">
